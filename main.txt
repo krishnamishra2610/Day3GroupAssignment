@@ -1,11 +1,7 @@
 Hello kdm.
 
-<<<<<<< HEAD
-Hello, I am Shubham: This is my branch.
 
-Hello from Keval, Hello.. I am Shweta from branch Shweta
-=======
->>>>>>> ae2025178e11f3fe5ac2355a26d4ad373fa11713
+Hello, I am Shubham: This is my branch.
 
 hello, from branchsid. This is sample statement.
 
@@ -17,11 +13,7 @@ Hello, I am Hiral from branch dev-hiral
  
 Hi ,I am Shubhangi !
 
-<<<<<<< HEAD
-=======
-Shweta here.
-
-
->>>>>>> ae2025178e11f3fe5ac2355a26d4ad373fa11713
 Hello.. I am Tejal from branch Tejal
+
+Shweta..
 
